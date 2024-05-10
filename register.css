@@ -1,0 +1,76 @@
+
+
+.container_ {
+    height: 100vh;
+    width: 100%;
+    display: grid;
+    place-items: center;
+  }
+  
+  .card {
+    border-radius: 10px;
+    box-shadow: 0 5px 10px 0 rgba(0, 0, 0, 0.3);
+    width: 450px;
+    background-color: #ffffff;
+    padding: 40px 40px;
+  }
+  
+  .card_title {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .card_title h1 {
+    font-size: 26px;
+    font-weight: bold;
+  }
+  
+  .form input {
+    margin: 10px 0;
+    width: 100%;
+    background-color: var(--gray18);
+    border: none;
+    outline: none;
+    padding: 12px 20px;
+    border-bottom: 1px solid black;
+    font-size: 17px;
+  }
+  
+  .form button {
+    background-color: var(--blue);
+    color: #ffffff;
+    font-size: 16px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 15px;
+    width: 100%;
+  }
+  
+  .card_terms {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .card_terms input[type="checkbox"] {
+    background-color: var(--gray18);
+  }
+  
+  .card_terms span {
+    margin: 5px;
+    font-size: 13px;
+  }
+  
+  .card a {
+    color: var(--blue);
+    text-decoration: none;
+  }
+  
+  .register_btn{
+      margin-top: 20px;
+  }
+  
+  
+  
+  

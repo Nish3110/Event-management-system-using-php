@@ -1,0 +1,25 @@
+.event_img img{
+    max-height: 700px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.e_detail_main{
+    max-width: 1300px;
+    margin: 0 auto;
+    background-color: lavender;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: 3rem;
+}
+.e_detail_main h1{
+    margin-top: 0;
+}
+
+.e_detail_main p{
+    letter-spacing: 1px;
+}
+
+.e_detail_main .cards .card .bottom{
+    padding: 30px;
+}

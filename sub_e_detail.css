@@ -1,0 +1,24 @@
+.e_detail_main h2{
+    margin: 20px 0;
+    padding: 0 50px;
+}
+.subevent .cards .card .bottom .category{
+    font-size: 24px;
+}
+.subevent .cards .card .bottom .title{
+    font-size: 16px;
+    font-weight: 500;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    overflow: hidden;
+}
+.subevent ul{
+    margin: 20px 0;
+    padding-left: 20px;
+}
+.subevent ul li{
+    text-decoration: none;
+    list-style-type: circle;
+    margin-bottom: 5px;
+}
